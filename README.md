@@ -3,6 +3,79 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElDavoo&theme=chartreuse-dark&layout=compact)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.5%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 4.4 MB Used in GitHub's Storage 
+ > 
+> 🏆 746 Contributions in the Year 2023
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 39 Public Repositories 
+ > 
+> 🔑 22 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                317 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
+🌆 Daytime                898 commits         ████████████░░░░░░░░░░░░░   47.46 % 
+🌃 Evening                606 commits         ████████░░░░░░░░░░░░░░░░░   32.03 % 
+🌙 Night                  71 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   442 commits         ██████░░░░░░░░░░░░░░░░░░░   23.36 % 
+Tuesday                  343 commits         █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
+Wednesday                282 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
+Thursday                 278 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
+Friday                   209 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
+Saturday                 169 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+Sunday                   169 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   15 repos            ███████░░░░░░░░░░░░░░░░░░   26.32 % 
+C                        6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Dart                     6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+C#                       4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+C++                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/ElDavoo/ElDavoo/main/assets/bar_graph.png)
+
+
+ Last Updated on 2023-03-29 UTC
 <!--END_SECTION:waka-->
 
 ## Star Race
