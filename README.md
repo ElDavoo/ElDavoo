@@ -3,15 +3,15 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElDavoo&theme=chartreuse-dark&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-80%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-81%20hrs%207%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-119-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-74-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 4.8 MB Used in GitHub's Storage 
  > 
-> 🏆 833 Contributions in the Year 2023
+> 🏆 825 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -71,7 +71,7 @@ C#                       3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 2023-06-16 UTC
+ Last Updated on 2023-06-17 UTC
 <!--END_SECTION:waka-->
 
 ## Star Race
