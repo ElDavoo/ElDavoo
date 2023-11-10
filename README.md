@@ -3,7 +3,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElDavoo&theme=chartreuse-dark&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-546%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-551%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -11,7 +11,7 @@
 
 > 📦 4.8 MB Used in GitHub's Storage 
  > 
-> 🏆 998 Contributions in the Year 2023
+> 🏆 999 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -44,18 +44,15 @@ Sunday                   169 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    23 hrs 23 mins      █████████████████████████   99.55 % 
-Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+Other                    24 hrs 43 mins      █████████████████████████   99.58 % 
+Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 
 🔥 Editors: 
-Google Calendar          22 hrs 50 mins      ████████████████████████░   97.18 % 
-Chrome                   28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
-VS Code                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
-Notepad++                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Google Calendar          24 hrs 40 mins      █████████████████████████   99.34 % 
+VS Code                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 
 🐱‍💻 Projects: 
-Unknown Project          22 hrs 59 mins      ████████████████████████░   97.88 % 
-rclone                   29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+Unknown Project          24 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -71,7 +68,7 @@ C#                       2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 2023-11-09 UTC
+ Last Updated on 2023-11-10 UTC
 <!--END_SECTION:waka-->
 
 ## Star Race
