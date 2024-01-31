@@ -3,7 +3,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElDavoo&theme=chartreuse-dark&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-845%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-850%20hrs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -66,7 +66,7 @@ Dockerfile               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 2024-01-30 UTC
+ Last Updated on 2024-01-31 UTC
 <!--END_SECTION:waka-->
 
 ## Star Race
