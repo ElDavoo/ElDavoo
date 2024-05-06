@@ -3,7 +3,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElDavoo&theme=chartreuse-dark&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C293%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C297%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
@@ -11,7 +11,7 @@
 
 > 📦 4.7 MB Used in GitHub's Storage 
  > 
-> 🏆 117 Contributions in the Year 2024
+> 🏆 119 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -61,17 +61,17 @@ Unknown Project          26 hrs 58 mins      ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   17 repos            ██████░░░░░░░░░░░░░░░░░░░   24.64 % 
-C                        9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-Dockerfile               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
-C++                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
-TeX                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+Python                   17 repos            ██████░░░░░░░░░░░░░░░░░░░   23.94 % 
+C                        9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
+Dockerfile               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+C++                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+TeX                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
 ```
 
 
 
 
- Last Updated on 2024-05-05 UTC
+ Last Updated on 2024-05-06 UTC
 <!--END_SECTION:waka-->
 
 ## Star Race
