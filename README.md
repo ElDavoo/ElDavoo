@@ -3,7 +3,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElDavoo&theme=chartreuse-dark&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C305%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C309%20hrs%2020%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
@@ -11,11 +11,11 @@
 
 > 📦 4.7 MB Used in GitHub's Storage 
  > 
-> 🏆 120 Contributions in the Year 2024
+> 🏆 123 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 48 Public Repositories 
+> 📜 50 Public Repositories 
  > 
 > 🔑 22 Private Repositories 
  > 
@@ -71,7 +71,7 @@ TeX                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 2024-05-08 UTC
+ Last Updated on 2024-05-09 UTC
 <!--END_SECTION:waka-->
 
 ## Star Race
