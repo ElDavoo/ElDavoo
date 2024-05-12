@@ -3,9 +3,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElDavoo&theme=chartreuse-dark&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C318%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C322%20hrs%205%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -44,18 +44,13 @@ Sunday                   214 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    29 hrs 5 mins       █████████████████████████   99.50 % 
-Properties               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
-Gradle                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Kotlin                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Other                    29 hrs 5 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Google Calendar          29 hrs 5 mins       █████████████████████████   99.50 % 
-Android Studio           8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Google Calendar          29 hrs 5 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          29 hrs 13 mins      █████████████████████████   100.00 % 
+Unknown Project          29 hrs 5 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -71,7 +66,7 @@ TeX                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 2024-05-11 UTC
+ Last Updated on 2024-05-12 UTC
 <!--END_SECTION:waka-->
 
 ## Star Race
