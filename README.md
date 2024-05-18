@@ -3,15 +3,13 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElDavoo&theme=chartreuse-dark&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C342%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C346%20hrs%2035%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 4.7 MB Used in GitHub's Storage 
- > 
-> 🏆 125 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -44,13 +42,13 @@ Sunday                   214 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    29 hrs 5 mins       █████████████████████████   100.00 % 
+Other                    28 hrs 35 mins      █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Google Calendar          29 hrs 5 mins       █████████████████████████   100.00 % 
+Google Calendar          28 hrs 35 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          29 hrs 5 mins       █████████████████████████   100.00 % 
+Unknown Project          28 hrs 35 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -66,7 +64,7 @@ TeX                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 2024-05-17 UTC
+ Last Updated on 2024-05-18 UTC
 <!--END_SECTION:waka-->
 
 ## Star Race
