@@ -3,13 +3,13 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElDavoo&theme=chartreuse-dark&layout=compact)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C468%20hrs%2028%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 4.7 MB Used in GitHub's Storage 
- > 
-> 🏆 145 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -17,6 +17,40 @@
  > 
 > 🔑 23 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                378 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
+🌆 Daytime                1032 commits        ███████████░░░░░░░░░░░░░░   45.87 % 
+🌃 Evening                769 commits         █████████░░░░░░░░░░░░░░░░   34.18 % 
+🌙 Night                  71 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   521 commits         ██████░░░░░░░░░░░░░░░░░░░   23.16 % 
+Tuesday                  391 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
+Wednesday                346 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Thursday                 320 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+Friday                   252 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
+Saturday                 204 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
+Sunday                   216 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Other                    27 hrs 20 mins      █████████████████████████   100.00 % 
+
+🔥 Editors: 
+Google Calendar          27 hrs 20 mins      █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Unknown Project          27 hrs 20 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -30,7 +64,7 @@ TeX                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 2024-06-15 UTC
+ Last Updated on 2024-06-16 UTC
 <!--END_SECTION:waka-->
 
 ## Star Race
