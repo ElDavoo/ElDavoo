@@ -3,13 +3,15 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElDavoo&theme=chartreuse-dark&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C541%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C545%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 4.7 MB Used in GitHub's Storage 
+ > 
+> 🏆 154 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -69,7 +71,7 @@ TeX                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 2024-07-06 UTC
+ Last Updated on 2024-07-07 UTC
 <!--END_SECTION:waka-->
 
 ## Star Race
