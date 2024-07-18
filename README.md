@@ -3,15 +3,13 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElDavoo&theme=chartreuse-dark&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C596%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C600%20hrs%2036%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 4.7 MB Used in GitHub's Storage 
- > 
-> 🏆 155 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -44,16 +42,16 @@ Sunday                   218 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    35 hrs 25 mins      █████████████████████████   99.80 % 
-Python                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Other                    32 hrs 35 mins      █████████████████████████   99.78 % 
+Python                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 🔥 Editors: 
-Google Calendar          35 hrs 25 mins      █████████████████████████   99.80 % 
-PyCharm                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Google Calendar          32 hrs 35 mins      █████████████████████████   99.78 % 
+PyCharm                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 🐱‍💻 Projects: 
-Unknown Project          35 hrs 25 mins      █████████████████████████   99.80 % 
-ghidra_scripts           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Unknown Project          32 hrs 35 mins      █████████████████████████   99.78 % 
+ghidra_scripts           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 ```
 
 **I Mostly Code in Python** 
@@ -69,7 +67,7 @@ TeX                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 2024-07-17 UTC
+ Last Updated on 2024-07-18 UTC
 <!--END_SECTION:waka-->
 
 ## Star Race
