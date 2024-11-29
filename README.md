@@ -3,7 +3,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElDavoo&theme=chartreuse-dark&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C179%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C183%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
@@ -11,11 +11,11 @@
 
 > 📦 4.7 MB Used in GitHub's Storage 
  > 
-> 🏆 338 Contributions in the Year 2024
+> 🏆 337 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 56 Public Repositories 
+> 📜 55 Public Repositories 
  > 
 > 🔑 27 Private Repositories 
  > 
@@ -44,19 +44,19 @@ Sunday                   266 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    29 hrs 25 mins      ████████████████████████░   97.40 % 
-Rust                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+Other                    28 hrs 35 mins      ████████████████████████░   97.32 % 
+Rust                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
 Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Google Calendar          29 hrs 25 mins      ████████████████████████░   97.40 % 
-RustRover                47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+Google Calendar          28 hrs 35 mins      ████████████████████████░   97.32 % 
+RustRover                47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
 
 🐱‍💻 Projects: 
-Unknown Project          29 hrs 25 mins      ████████████████████████░   97.40 % 
-untitled1                47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+Unknown Project          28 hrs 35 mins      ████████████████████████░   97.32 % 
+untitled1                47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
 ```
 
 **I Mostly Code in Python** 
@@ -72,7 +72,7 @@ Fortran                  1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2024-11-28 UTC
+ Last Updated on 2024-11-29 UTC
 <!--END_SECTION:waka-->
 
 ## Star Race
