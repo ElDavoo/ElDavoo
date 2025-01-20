@@ -3,7 +3,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElDavoo&theme=chartreuse-dark&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C350%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C354%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
 
@@ -11,7 +11,7 @@
 
 > 📦 4.4 MB Used in GitHub's Storage 
  > 
-> 🏆 21 Contributions in the Year 2025
+> 🏆 23 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -57,17 +57,17 @@ Unknown Project          30 hrs 38 mins      ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   20 repos            ██████░░░░░░░░░░░░░░░░░░░   24.69 % 
-C                        8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-Dart                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
-TeX                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
-Fortran                  1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+Python                   21 repos            ██████░░░░░░░░░░░░░░░░░░░   25.61 % 
+C                        8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+Dart                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+TeX                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+Fortran                  1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
 ```
 
 
 
 
- Last Updated on 2025-01-19 UTC
+ Last Updated on 2025-01-20 UTC
 <!--END_SECTION:waka-->
 
 ## Star Race
