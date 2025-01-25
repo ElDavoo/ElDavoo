@@ -3,7 +3,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElDavoo&theme=chartreuse-dark&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C371%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C376%20hrs%2027%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
 
@@ -44,17 +44,17 @@ Sunday                   232 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    28 hrs 10 mins      ████████████████████████░   96.44 % 
-Python                   1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+Other                    29 hrs 10 mins      ████████████████████████░   96.56 % 
+Python                   1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
 GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-Google Calendar          28 hrs 10 mins      ████████████████████████░   96.44 % 
-PyCharm                  1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
+Google Calendar          29 hrs 10 mins      ████████████████████████░   96.56 % 
+PyCharm                  1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
 
 🐱‍💻 Projects: 
-Unknown Project          28 hrs 10 mins      ████████████████████████░   96.44 % 
-bringoutyourdead         1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
+Unknown Project          29 hrs 10 mins      ████████████████████████░   96.56 % 
+bringoutyourdead         1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
 ```
 
 **I Mostly Code in Python** 
@@ -70,7 +70,7 @@ Fortran                  1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2025-01-24 UTC
+ Last Updated on 2025-01-25 UTC
 <!--END_SECTION:waka-->
 
 ## Star Race
