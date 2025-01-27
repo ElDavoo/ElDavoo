@@ -3,9 +3,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElDavoo&theme=chartreuse-dark&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C380%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C388%20hrs%2044%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
 
 **🐱 My GitHub Data** 
 
@@ -44,18 +44,18 @@ Sunday                   232 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    29 hrs 10 mins      ████████████████████████░   96.49 % 
-Python                   1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Other                    33 hrs 16 mins      ████████████████████████░   96.91 % 
+Python                   1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Google Calendar          29 hrs 10 mins      ████████████████████████░   96.49 % 
-PyCharm                  1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+Google Calendar          33 hrs 16 mins      ████████████████████████░   96.91 % 
+PyCharm                  1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
 
 🐱‍💻 Projects: 
-Unknown Project          29 hrs 10 mins      ████████████████████████░   96.49 % 
-bringoutyourdead         1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+Unknown Project          33 hrs 16 mins      ████████████████████████░   96.91 % 
+bringoutyourdead         1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
 ```
 
 **I Mostly Code in Python** 
@@ -71,7 +71,7 @@ Fortran                  1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2025-01-26 UTC
+ Last Updated on 2025-01-27 UTC
 <!--END_SECTION:waka-->
 
 ## Star Race
