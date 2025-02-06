@@ -3,7 +3,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElDavoo&theme=chartreuse-dark&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C432%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C436%20hrs%2044%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -19,6 +19,40 @@
  > 
 > 🔑 18 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                308 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
+🌆 Daytime                821 commits         ██████████░░░░░░░░░░░░░░░   40.26 % 
+🌃 Evening                838 commits         ██████████░░░░░░░░░░░░░░░   41.10 % 
+🌙 Night                  72 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   463 commits         ██████░░░░░░░░░░░░░░░░░░░   22.71 % 
+Tuesday                  291 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
+Wednesday                276 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+Thursday                 270 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
+Friday                   287 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
+Saturday                 220 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
+Sunday                   232 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Other                    28 hrs 35 mins      █████████████████████████   100.00 % 
+
+🔥 Editors: 
+Google Calendar          28 hrs 35 mins      █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Unknown Project          28 hrs 35 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -32,7 +66,7 @@ Fortran                  1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2025-02-05 UTC
+ Last Updated on 2025-02-06 UTC
 <!--END_SECTION:waka-->
 
 ## Star Race
