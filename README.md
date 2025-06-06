@@ -3,7 +3,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElDavoo&theme=chartreuse-dark&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C268%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C301%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -11,48 +11,12 @@
 
 > 📦 4.4 MB Used in GitHub's Storage 
  > 
-> 🏆 29 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 51 Public Repositories 
  > 
 > 🔑 19 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                449 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
-🌆 Daytime                1021 commits        ██████████░░░░░░░░░░░░░░░   38.31 % 
-🌃 Evening                1091 commits        ██████████░░░░░░░░░░░░░░░   40.94 % 
-🌙 Night                  104 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   586 commits         █████░░░░░░░░░░░░░░░░░░░░   21.99 % 
-Tuesday                  368 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
-Wednesday                371 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
-Thursday                 359 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
-Friday                   400 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
-Saturday                 285 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
-Sunday                   296 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Other                    72 hrs 50 mins      █████████████████████████   100.00 % 
-
-🔥 Editors: 
-Google Calendar          72 hrs 50 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-Unknown Project          72 hrs 50 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -66,7 +30,7 @@ Fortran                  1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2025-06-01 UTC
+ Last Updated on 2025-06-06 UTC
 <!--END_SECTION:waka-->
 
 ## Star Race
