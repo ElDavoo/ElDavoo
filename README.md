@@ -3,7 +3,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElDavoo&theme=chartreuse-dark&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C454%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C480%20hrs%2028%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
@@ -44,13 +44,13 @@ Sunday                   296 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    77 hrs              █████████████████████████   100.00 % 
+Other                    76 hrs 40 mins      █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Google Calendar          77 hrs              █████████████████████████   100.00 % 
+Google Calendar          76 hrs 40 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          77 hrs              █████████████████████████   100.00 % 
+Unknown Project          76 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -66,7 +66,7 @@ Fortran                  1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2025-06-20 UTC
+ Last Updated on 2025-06-21 UTC
 <!--END_SECTION:waka-->
 
 ## Star Race
