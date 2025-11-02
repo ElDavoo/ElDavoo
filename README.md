@@ -3,9 +3,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElDavoo&theme=chartreuse-dark&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C422%20hrs%2047%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
@@ -19,40 +17,6 @@
  > 
 > 🔑 20 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                654 commits         █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
-🌆 Daytime                1288 commits        █████████░░░░░░░░░░░░░░░░   36.31 % 
-🌃 Evening                1452 commits        ██████████░░░░░░░░░░░░░░░   40.94 % 
-🌙 Night                  153 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   759 commits         █████░░░░░░░░░░░░░░░░░░░░   21.40 % 
-Tuesday                  469 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
-Wednesday                484 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
-Thursday                 496 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
-Friday                   596 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
-Saturday                 349 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
-Sunday                   394 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Other                    42 hrs 47 mins      █████████████████████████   100.00 % 
-
-🔥 Editors: 
-Google Calendar          42 hrs 47 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-Unknown Project          42 hrs 47 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -66,7 +30,7 @@ Fortran                  1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2025-10-30 UTC
+ Last Updated on 2025-11-02 UTC
 <!--END_SECTION:waka-->
 
 ## Star Race
