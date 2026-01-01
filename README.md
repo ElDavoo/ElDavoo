@@ -3,20 +3,56 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElDavoo&theme=chartreuse-dark&layout=compact)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C812%20hrs%208%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 4.4 MB Used in GitHub's Storage 
  > 
-> 🏆 52 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 52 Public Repositories 
+> 📜 53 Public Repositories 
  > 
-> 🔑 20 Private Repositories 
+> 🔑 19 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                664 commits         █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
+🌆 Daytime                1282 commits        █████████░░░░░░░░░░░░░░░░   35.96 % 
+🌃 Evening                1465 commits        ██████████░░░░░░░░░░░░░░░   41.09 % 
+🌙 Night                  154 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   764 commits         █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+Tuesday                  475 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
+Wednesday                469 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+Thursday                 482 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
+Friday                   621 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
+Saturday                 355 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
+Sunday                   399 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Other                    6 hrs 35 mins       █████████████████████████   100.00 % 
+
+🔥 Editors: 
+Google Calendar          6 hrs 35 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Unknown Project          6 hrs 35 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -30,7 +66,7 @@ Fortran                  1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2025-12-29 UTC
+ Last Updated on 2026-01-01 UTC
 <!--END_SECTION:waka-->
 
 ## Star Race
