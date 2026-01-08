@@ -3,13 +3,15 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElDavoo&theme=chartreuse-dark&layout=compact)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C057%20hrs%208%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 4.4 MB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2026
+> 🏆 9 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -17,6 +19,40 @@
  > 
 > 🔑 19 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                420 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
+🌆 Daytime                972 commits         ██████████░░░░░░░░░░░░░░░   38.22 % 
+🌃 Evening                1061 commits        ██████████░░░░░░░░░░░░░░░   41.72 % 
+🌙 Night                  90 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   548 commits         █████░░░░░░░░░░░░░░░░░░░░   21.55 % 
+Tuesday                  359 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
+Wednesday                337 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
+Thursday                 318 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Friday                   401 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
+Saturday                 279 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
+Sunday                   301 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Other                    26 hrs 14 mins      █████████████████████████   100.00 % 
+
+🔥 Editors: 
+Google Calendar          26 hrs 14 mins      █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Unknown Project          26 hrs 14 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -30,7 +66,7 @@ Fortran                  1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2026-01-03 UTC
+ Last Updated on 2026-01-08 UTC
 <!--END_SECTION:waka-->
 
 ## Star Race
