@@ -3,7 +3,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElDavoo&theme=chartreuse-dark&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C195%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C203%20hrs%2054%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
 
@@ -66,7 +66,7 @@ Fortran                  1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2026-01-24 UTC
+ Last Updated on 2026-01-25 UTC
 <!--END_SECTION:waka-->
 
 ## Star Race
