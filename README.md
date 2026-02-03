@@ -3,6 +3,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElDavoo&theme=chartreuse-dark&layout=compact)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C265%20hrs%2044%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -17,6 +19,40 @@
  > 
 > 🔑 19 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                424 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
+🌆 Daytime                981 commits         ██████████░░░░░░░░░░░░░░░   38.04 % 
+🌃 Evening                1083 commits        ██████████░░░░░░░░░░░░░░░   41.99 % 
+🌙 Night                  91 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   549 commits         █████░░░░░░░░░░░░░░░░░░░░   21.29 % 
+Tuesday                  362 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+Wednesday                338 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+Thursday                 319 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+Friday                   423 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
+Saturday                 282 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
+Sunday                   306 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Other                    59 hrs 30 mins      █████████████████████████   100.00 % 
+
+🔥 Editors: 
+Google Calendar          59 hrs 30 mins      █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Unknown Project          59 hrs 30 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -30,7 +66,7 @@ Fortran                  1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2026-02-01 UTC
+ Last Updated on 2026-02-03 UTC
 <!--END_SECTION:waka-->
 
 ## Star Race
