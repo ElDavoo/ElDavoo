@@ -3,13 +3,15 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElDavoo&theme=chartreuse-dark&layout=compact)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C823%20hrs%2045%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 4.4 MB Used in GitHub's Storage 
  > 
-> 🏆 72 Contributions in the Year 2026
+> 🏆 74 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -17,6 +19,40 @@
  > 
 > 🔑 20 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                510 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
+🌆 Daytime                1160 commits        █████████░░░░░░░░░░░░░░░░   37.83 % 
+🌃 Evening                1287 commits        ██████████░░░░░░░░░░░░░░░   41.98 % 
+🌙 Night                  109 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   610 commits         █████░░░░░░░░░░░░░░░░░░░░   19.90 % 
+Tuesday                  413 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
+Wednesday                391 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+Thursday                 369 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
+Friday                   538 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
+Saturday                 382 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+Sunday                   363 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Other                    57 hrs              █████████████████████████   100.00 % 
+
+🔥 Editors: 
+Google Calendar          57 hrs              █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Unknown Project          57 hrs              █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -30,7 +66,7 @@ Fortran                  1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2026-04-18 UTC
+ Last Updated on 2026-04-19 UTC
 <!--END_SECTION:waka-->
 
 ## Star Race
