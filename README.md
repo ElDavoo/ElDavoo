@@ -3,7 +3,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElDavoo&theme=chartreuse-dark&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C556%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C557%20hrs%2041%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue?style=flat)
 
@@ -11,7 +11,7 @@
 
 > 📦 4.5 MB Used in GitHub's Storage 
  > 
-> 🏆 133 Contributions in the Year 2026
+> 🏆 134 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -56,17 +56,17 @@ Unknown Project          44 hrs 48 mins      ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   19 repos            ████████░░░░░░░░░░░░░░░░░   31.67 % 
-Dart                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-TeX                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-Nix                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Python                   19 repos            ████████░░░░░░░░░░░░░░░░░   31.15 % 
+Dart                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+TeX                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+Nix                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
 ```
 
 
 
 
- Last Updated on 2026-07-20 UTC
+ Last Updated on 2026-07-21 UTC
 <!--END_SECTION:waka-->
 
 ## Star Race
