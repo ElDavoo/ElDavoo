@@ -34,7 +34,3 @@ TeX                      3 repos             █░░░░░░░░░░�
 
  Last Updated on 2026-08-26 UTC
 <!--END_SECTION:waka-->
-
-## Star Race
-
-[![Star History Chart](https://api.star-history.com/svg?repos=ElDavoo/WhatsApp-Crypt14-Crypt15-Decrypter,ElDavoo/TuringOS,EliteAndroidApps/WhatsApp-Crypt12-Decrypter,KnugiHK/Whatsapp-Chat-Exporter&type=Date)]
